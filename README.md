@@ -15,17 +15,17 @@ This project automates the job application process by:
 - Web automation (selectors)
 
 ## Process Flow
-1. Read job data from Excel
-2. Open job portal
-3. Fill application form
-4. Upload CV
-5. Submit application
+1. Read job data from LinkedIn (Real-Time)
+2. Copy Required Data
+3. Prompt LLM to Create a tailored Professional Summary for Resume
+4. Make Changes to Word Document
+5. Save to Gmail Draft 
 6. Alert User
 
 ## Key Features
 - Exception handling
 - Retry mechanism
-- Loop mechanim for multiple jobs
+- Loop mechanim for multiple jobs ( Looping in search of new job enteries)
 - Config-driven automation
 - Logging
 
