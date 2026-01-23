@@ -48,3 +48,4 @@ Sending through Gmail(set to my personal one just for presenting purpose)
 - Built end-to-end RPA solution
 - Learned selector handling and debugging
 - Implemented reusable workflows
+- Created a working solution to a problem
